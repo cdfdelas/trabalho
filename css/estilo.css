@@ -27,12 +27,12 @@ header img{
 }
 #section-vendidos .card {
     margin: 5px;
-    border: 1px solid #1cdf26;
+    border: 1px solid #00c1fc;
     border-radius: 10px;
 
 }
 #section-vendidos .preco {
-    color: red;
+    color: rgb(0, 17, 255);
     font-size: 18px;
     font-weight: bold;
 }
@@ -73,7 +73,7 @@ footer p {
 #section-cadastro {
     padding: 5px;
     text-align: center;
-    background-color: #fff;
+    background-color: #0099ff;
     }
     #form-cadastrar {
     padding: 50px;
